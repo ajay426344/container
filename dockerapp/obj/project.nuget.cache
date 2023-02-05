@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZzyTNjzfOKejmbwlQ9SxkOXPOxlrEOR4Abrw0RY8KtXLHQirSSGLo/0tafrVkrt6E+GHBeVMOioidwt/h0Sdig==",
+  "success": true,
+  "projectFilePath": "C:\\2021\\Azure-Recorded\\AZ-104\\1. Deploy and manage Azure compute resources\\3. Azure Containers and Kubernetes\\7. Publishing to the Azure Container Registry\\dockerapp\\dockerapp\\dockerapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Allan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
